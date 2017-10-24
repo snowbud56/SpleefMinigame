@@ -1,0 +1,2 @@
+# If this is -1, then there will be no limit to the amount of games that are allowed to run on the server.
+max-games: -1

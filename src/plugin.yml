@@ -1,0 +1,7 @@
+name: Spleef
+version: 1.0
+author: snowbud56
+main: com.snowbud56.SpleefMinigame
+commands:
+  spleef:
+    description: Main Spleef command.
